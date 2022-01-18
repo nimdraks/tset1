@@ -6,3 +6,8 @@ type Test1 struct {
 	aa int
 	bb int
 }
+
+type Test2 struct {
+	cc int
+	dd int
+}
